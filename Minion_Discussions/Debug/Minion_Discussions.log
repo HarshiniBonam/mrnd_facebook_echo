@@ -1,0 +1,17 @@
+﻿Build started 14-Jun-15 9:57:11 AM.
+     1>Project "E:\mrnd\Minion_Discussions\Minion_Discussions.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Minion_Discussion.cpp
+         Minion_Discussion.cpp
+     1>e:\mrnd\minion_discussions\minion_discussion.cpp(265): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\mrnd\minion_discussions\minion_discussion.cpp(279): warning C4101: 'indirect_indirect_block' : unreferenced local variable
+     1>e:\mrnd\minion_discussions\minion_discussion.cpp(415): warning C4101: 'index2' : unreferenced local variable
+     1>e:\mrnd\minion_discussions\minion_discussion.cpp(415): warning C4101: 'indirect_block2' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\mrnd\Minion_Discussions\Debug\Minion_Discussions.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\mrnd\Minion_Discussions\Debug\Minion_Discussions.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\mrnd\Minion_Discussions\Debug\Minion_Discussions.lib" /MACHINE:X86 Debug\Minion_Discussion.obj
+         Minion_Discussions.vcxproj -> E:\mrnd\Minion_Discussions\Debug\Minion_Discussions.exe
+     1>Done Building Project "E:\mrnd\Minion_Discussions\Minion_Discussions.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.45

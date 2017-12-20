@@ -1,0 +1,23 @@
+main()
+{
+	//initiates the program.
+init()
+}
+init()
+{
+	//Takes user's interest to login.
+	login()
+}
+login()
+{
+	//Takes user's credentials to login and calls display_group()
+	group_num = display_group()
+	//if a group is chosen, open the group.
+	
+}
+display_group()
+{
+	//Displays all groups and logout option.
+	//returns user choice.
+}
+
